@@ -1,0 +1,13 @@
+{
+    "job_name": "test",
+    "potential_path": "./EAMPotentials/",
+    "potential": "M07_eam.fs",
+    "scratch": "./data/",
+
+    "atomtype": 1,
+    "etol": "1e-10",
+
+    "nx": 12,
+    "ny": 12,
+    "nz": 12
+}
