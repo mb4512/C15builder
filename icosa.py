@@ -451,6 +451,7 @@ def main():
             for _int in allvacs:
                 fopen.write ("0 %f %f %f\n" % tuple(_int))
 
+
     # bring into lattice units
     allvacs = alattice * allvacs 
     allints = alattice * allints 
